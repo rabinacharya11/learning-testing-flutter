@@ -1,16 +1,14 @@
-# testing_1
+# Why this repo ? 
 
-A new Flutter project.
+this repo will track the progress i would make in learing to writing test codes in flutter 
 
-## Getting Started
+#Week 1 
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Day 1 :
+     1. Learned why unit testing is important and why writing test is the best way to go
+     2. Created the a simple use case scenerio of the simple calculator and wrote tests for the matter . 
+        * Adding two numbers
+        * Subtracting two numbers
+        * Dividing two numbers
+        * Multiplying two numbers
+        
